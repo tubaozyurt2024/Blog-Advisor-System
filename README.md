@@ -1,6 +1,4 @@
-# Blog-Advisor-System
-Patika.dev Bootcamp Group Homework
-
-The system we are working on is an OpenAI-integrated recommendation system that suggests new blog topics based on the blogs a user has already read.
+#BlogHub Service
+#BlogHub #Service is an AI-powered blog recommendation system that uses OpenAI to suggest relevant blog content based on users' reading history. It integrates RabbitMQ for message handling, supports personalized blog recommendations through OpenAI, and leverages PostgreSQL for database management.
 
 
