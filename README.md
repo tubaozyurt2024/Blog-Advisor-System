@@ -20,9 +20,9 @@ This project leverages the following technologies:
 ### Prerequisites
 
 - **Java** 17 or higher
-- **PostgreSQL
-- **RabbitMQ
-- **Docker (optional, for containerization)
+- **PostgreSQL**
+- **RabbitMQ**
+- **Docker** (optional, for containerization)
 
 ## Explanation of Configuration Parameters
 
